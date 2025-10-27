@@ -1,0 +1,15 @@
+{
+  "name": "promzy-v1",
+  "version": "1.0.0",
+  "description": "Promzy v1 simulated messaging bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "uuid": "^9.0.0"
+  }
+}
